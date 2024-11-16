@@ -15,7 +15,7 @@ module.exports = {
   // public = AnyOne Working
   // inbox = Only Working  Inbox
   // groups = only working in group
-  OWNER_NUMBER: process.env.OWNER_NUMBER || "94702481115",
+  OWNER_NUMBER: process.env.OWNER_NUMBER || "919883457657",
   //========================================- OTHER - CONFIGS -=====================================================================
   NSFW_CMD: process.env.NSFW_CMD || "false",
   MONGODB: process.env.MONGODB || "mongodb+srv://vishwamihi22:vishwamihi22@cluster0.y6r9gav.mongodb.net/",
@@ -28,11 +28,11 @@ module.exports = {
   ANTI_LINK: process.env.ANTILINK || "false",
   ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "false",
   ALWAYS_TYPING: process.env.ALWAYS_TYPING || "false",
-  ALWAYS_RECORDING: process.env.ALWAYS_RECORDING || "false",
+  ALWAYS_RECORDING: process.env.ALWAYS_RECORDING || "true",
   ANTI_BOT: process.env.ANTI_BOT || "true",
   ANTI_DELETE: process.env.ANTI_DELETE || "true",
-  packname: process.env.packname || "🪄BHASHI",
-  author: process.env.author || "BHASHI x VISHWA",
+  packname: process.env.packname || "🪄ANJAN",
+  author: process.env.author || "ANJAN x BOT",
   //==========================================- API-CONFIGS -==========================================================
   OPENWEATHER_API_KEY: process.env.OPENWEATHER_API_KEY || "2d61a72574c11c4f36173b627f8cb177", //openweathermap.org
   ELEVENLABS_API_KEY: process.env.ELEVENLABS_API_KEY || "sk_6438bcc100d96458f8de0602aec662f4ba14b905fd090ad3", //elevenlabs.io
